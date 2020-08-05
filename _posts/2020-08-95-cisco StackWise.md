@@ -8,6 +8,7 @@ header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - 网络学习
+	- cisco
 ---
 
 
@@ -27,10 +28,13 @@ tags:								#标签
 # 状态查看命令
 
 show redundancy
+
 show switch
+
 stackwise vitual link：transfer both data and  control traffic between the peer switches；
 通过virtual link 传输的数据会被添加StackWise virtual header
-ec的负载分担算法：
+
+ether-channel的负载分担算法：
 SVL(config)#port-channel load-balance ?
 dst-ip Dst IP Addrdst-mac Dst Mac Addr
 
