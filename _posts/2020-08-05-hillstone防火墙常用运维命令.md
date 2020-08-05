@@ -18,9 +18,9 @@ tags:								#标签
 
    用户可通过以下步骤在设备上配置HA traffic功能：
 
-   1.将两台HA设备配置为HA Peer组网模式；
+   1. 将两台HA设备配置为HA Peer组网模式；
 
-   2.启用HA traffic功能：
+   2. 启用HA traffic功能：
 
 ​			启用ha traffic：
 
